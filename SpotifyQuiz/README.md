@@ -1,4 +1,4 @@
-# trial
+# SpotifyQuiz
 
 A new Flutter project.
 
