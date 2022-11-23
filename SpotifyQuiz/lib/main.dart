@@ -37,6 +37,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 2, 2, 2),
       body: Center(
+        //body: LayoutBuilder TODO, see slides
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
